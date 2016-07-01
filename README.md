@@ -2,7 +2,7 @@
 
 ### Looking at hooking forgotten services into Internet spaces and re-animating forgotten physical resources.
 
-*By Ben Eaton*
+*By Ben Eaton at the Mozilla Open IoT Design Sprint in Anstruther, June 2016*
 
 Read more at [http://invisibleflock.com/blog/?p=323](http://invisibleflock.com/blog/?p=323)
 
